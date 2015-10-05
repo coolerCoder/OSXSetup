@@ -1,0 +1,15 @@
+Install Xcode
+Install Homebrew
+
+Install zsh
+Install oh-my-zsh
+
+Install byobu
+Install Ranger
+
+Install Git
+Download LinuxConfig, gitconfig and gitignore
+Config git username and email
+Download VimConfig, get vimrc
+
+Change in System config to map Function keys to fn+Fx (since you'd use byobu)
